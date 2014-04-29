@@ -1,0 +1,12 @@
+{
+  "name": "grunt_test",
+  "version": "1.0.0",
+  "title": "Grunt Title",
+  "homepage": "http:www.yoursite.com.br",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
