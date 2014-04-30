@@ -12,15 +12,16 @@ Environment Setup
 ==========
 Starting the grunt -- This command will generate a referency on devDependencies in the package.json file.
 
+Install grunt  
 1 - `npm install grunt --save-dev`  
-Install plugin for minify the files.
 
+Install plugin for minify the files.  
 2 - `npm install grunt-contrib-uglify --save-dev`  
-Compile the SASS file.
 
+Compile the SASS file.  
 3 - `npm install grunt-contrib-sass --save-dev`  
-Install the watch plugin. -- This plugin will run the tasks: [ 'uglify', 'sass' ] declared on the Gruntfile.js
 
+Install the watch plugin. -- This plugin will run the tasks: [ 'uglify', 'sass' ] declared on the Gruntfile.js  
 4 - `npm install grunt-contrib-watch --save-dev`
 
 Up And Running
